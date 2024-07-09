@@ -1,6 +1,6 @@
-# hardwareedu
+# hardwareeduai
 
-HardwareEDU Flutter Project.
+HardwareEDUAI Flutter Project.
 
 ## Getting Started
 
